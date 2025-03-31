@@ -14,7 +14,7 @@
 Je suis déterminé à apprendre, créer et innover pour transformer mes idées en réalité. Je crois que chaque petite étape dans l'apprentissage me rapproche de mes rêves.
 
 ## 📚 Ce que j'apprends actuellement
-- Les bases de la programmation avec [ton langage ou outil actuel, par exemple : Python, Java, etc.]
+- La programmation avec C#
 - Concepts de bas niveau avec C/C++
 - Techniques de conception et créativité numérique
 
