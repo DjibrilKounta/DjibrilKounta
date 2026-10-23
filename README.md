@@ -28,6 +28,16 @@ J’accorde une place centrale aux tests, à la lisibilité du code et à la rep
 | Qualité | **Tests unitaires et d’intégration** | Validation des comportements et prévention des régressions |
 | Environnement | **Docker** | Environnements de développement reproductibles |
 
+## Outils et environnements
+
+| Usage | Outils |
+| --- | --- |
+| Gestion de versions et collaboration | **Git · GitHub** |
+| Développement | **Visual Studio · Visual Studio Code (VS Code)** |
+| Systèmes d’exploitation | **Linux · Windows** |
+| Documentation et organisation | **Notion** |
+| Bureautique | **Excel — niveau avancé · Word · PowerPoint** |
+
 ## Mon approche
 
 - **Relier l’interface aux données** : partir d’un besoin concret pour concevoir une application cohérente.
