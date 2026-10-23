@@ -1,31 +1,50 @@
 # Djibril Kounta
 
-### Développement fullstack .NET · C# · React · TypeScript
+### Développeur Fullstack .NET · Web · Desktop · Jeux
 
-Je construis mon parcours fullstack autour de **C# et ASP.NET Core** pour le backend, **PostgreSQL** pour les données et **React avec TypeScript** pour les interfaces web. J'accorde une place centrale aux tests, à la lisibilité du code et à la reproductibilité des environnements avec Docker.
+**C# / ASP.NET Core · PostgreSQL · React / TypeScript · Tests · Docker**  
+**Unity pour les jeux · WPF pour le desktop · C / C++ pour le bas niveau**
 
-## Stack et axes de travail
+[LinkedIn](https://www.linkedin.com/in/djibril-kounta/) · [Dépôts et contributions](https://github.com/DjibrilKounta?tab=repositories)
 
-| Domaine | Technologies et objectifs |
-| --- | --- |
-| Backend | C#, ASP.NET Core · conception d'API REST et logique métier |
-| Données | PostgreSQL · modélisation relationnelle et requêtes SQL |
-| Frontend | React, TypeScript · composants réutilisables et intégration d'API |
-| Qualité | Tests unitaires et d'intégration · validation des comportements et prévention des régressions |
-| Environnement | Docker · environnements de développement reproductibles |
+## À propos
+
+Mon parcours s’articule autour du développement **fullstack .NET**, avec C# et ASP.NET Core côté backend, PostgreSQL pour les données et React avec TypeScript côté frontend.
+
+Je développe également avec **Unity et C# pour les jeux** et **WPF pour les applications desktop**. Mes compétences en **C et C++** complètent ce parcours sur les aspects bas niveau.
+
+J’accorde une place centrale aux tests, à la lisibilité du code et à la reproductibilité des environnements avec Docker. Mon objectif : construire des applications utiles, compréhensibles et faciles à faire évoluer.
+
+## Compétences et domaines
+
+| Domaine | Technologies | Axes de travail |
+| --- | --- | --- |
+| Backend | **C# · .NET · ASP.NET Core** | API REST et logique métier |
+| Données | **PostgreSQL · SQL** | Modélisation relationnelle et requêtes |
+| Frontend | **React · TypeScript** | Interfaces web, composants et intégration d’API |
+| Desktop | **WPF · C#** | Applications de bureau et interfaces utilisateur |
+| Jeux | **Unity · C#** | Développement de jeux et interactions |
+| Bas niveau | **C · C++** | Programmation proche du système |
+| Qualité | **Tests unitaires et d’intégration** | Validation des comportements et prévention des régressions |
+| Environnement | **Docker** | Environnements de développement reproductibles |
 
 ## Mon approche
 
-- Partir d'un besoin concret pour concevoir un parcours utilisateur cohérent, de l'interface à la base de données.
-- Structurer le backend pour rendre la logique métier compréhensible et testable.
-- Soigner les contrats d'API, la validation des entrées et la gestion des erreurs.
-- Tester les comportements essentiels et les échanges entre les composants.
-- Documenter l'installation et l'exécution pour faciliter la prise en main d'un projet.
+- **Relier l’interface aux données** : partir d’un besoin concret pour concevoir une application cohérente.
+- **Rendre le code compréhensible** : séparer les responsabilités et structurer une logique métier testable.
+- **Soigner les échanges** : clarifier les contrats d’API, valider les entrées et gérer les erreurs.
+- **Vérifier les comportements essentiels** : utiliser les tests pour accompagner les évolutions.
+- **Faciliter la prise en main** : documenter l’installation, la configuration et l’exécution des projets.
 
-## Ce que je développe dans mon parcours
+## Ce que je souhaite construire
 
-Mon objectif est de réaliser des applications web complètes associant une API ASP.NET Core, une base PostgreSQL et une interface React/TypeScript, avec des tests et une exécution via Docker. Je souhaite rendre mes choix techniques faciles à comprendre à travers du code lisible et une documentation utile.
+- Des applications web complètes associant **ASP.NET Core, PostgreSQL et React/TypeScript**, avec des tests et une exécution via Docker.
+- Des applications desktop avec **WPF et C#**.
+- Des jeux et prototypes interactifs avec **Unity**.
+- Des projets en **C/C++** pour approfondir la programmation bas niveau.
 
 ## Échanger
 
-Retrouvez mon travail et mes contributions sur [GitHub](https://github.com/DjibrilKounta?tab=repositories). Je suis intéressé par les échanges autour de .NET, du développement fullstack et de la qualité logicielle.
+Je suis intéressé par les échanges autour de **.NET, du développement fullstack, des applications desktop, des jeux et de la qualité logicielle**.
+
+Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/djibril-kounta/) ou explorez mes [dépôts GitHub](https://github.com/DjibrilKounta?tab=repositories).
