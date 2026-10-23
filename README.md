@@ -36,7 +36,7 @@ J’accorde une place centrale aux tests, à la lisibilité du code et à la rep
 - **Vérifier les comportements essentiels** : utiliser les tests pour accompagner les évolutions.
 - **Faciliter la prise en main** : documenter l’installation, la configuration et l’exécution des projets.
 
-## Ce que je souhaite construire
+## Ce que je construis
 
 - Des applications web complètes associant **ASP.NET Core, PostgreSQL et React/TypeScript**, avec des tests et une exécution via Docker.
 - Des applications desktop avec **WPF et C#**.
