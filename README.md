@@ -12,9 +12,11 @@ I'm interested in full-stack development, with a focus on backend development in
 
 ## Technical Skills
 
-- **Languages** — C#, SQL, HTML and CSS
-- **Frameworks** — .NET, ASP.NET Core and WPF
-- **Tools** — Git, GitHub and Visual Studio
+- **Backend** — C#, .NET, ASP.NET Core, REST APIs and Entity Framework Core
+- **Front end** — React, TypeScript, JavaScript, HTML, CSS and Vite
+- **Databases** — PostgreSQL and SQL
+- **Tools and testing** — Git, GitHub, Docker, Visual Studio and xUnit
+- **Game development** — Experience with Unity and C#
 
 ## Connect With Me
 
