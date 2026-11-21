@@ -1,16 +1,21 @@
-![Bannière de Djibril Kounta](assets/banniere-djibril-kounta.png)
+![Djibril Kounta](assets/banniere-djibril-kounta.png)
 
-# Bonjour, je suis Djibril Kounta
+# Hi, I'm Djibril Kounta 👋
 
-Je cherche un **stage ou un premier poste en développement full stack à Montréal**, avec un intérêt particulier pour le backend en C# et .NET.
+I'm interested in full-stack development, with a focus on backend development in C# and .NET.
 
-Je poursuis un DEC en Techniques de l’informatique au Cégep du Vieux Montréal et je suis titulaire d’une licence en génie informatique. J’ai travaillé quatre ans chez Camsoft en réparation et maintenance informatique, où j’ai diagnostiqué des pannes et accompagné les utilisateurs.
+## About Me
 
-## Technologies
+- I study Computer Science Technology at Cégep du Vieux Montréal and hold a degree in computer engineering.
+- I spent four years at Camsoft diagnosing and repairing computers and helping users resolve technical problems.
+- I'm based in Montréal, Canada, and looking for an internship or junior software development role.
 
-- **Backend** — C#, .NET, ASP.NET Core, API REST et Entity Framework Core
-- **Front-end** — React, TypeScript, JavaScript, HTML et CSS
-- **Données et outils** — PostgreSQL, SQL, Git, Docker et xUnit
-- **Développement de jeux** — Unity et C#
+## Technical Skills
 
-Pour échanger au sujet d’un stage ou d’un poste junior, [écrivez-moi sur LinkedIn](https://www.linkedin.com/in/djibrilkounta/).
+- **Languages** — C#, SQL, HTML and CSS
+- **Frameworks** — .NET, ASP.NET Core and WPF
+- **Tools** — Git, GitHub and Visual Studio
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/djibrilkounta/)
