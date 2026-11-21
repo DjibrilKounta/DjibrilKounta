@@ -1,17 +1,25 @@
 ![Djibril Kounta](assets/banniere-djibril-kounta.png)
 
-# Djibril Kounta
+# Hi, I'm Djibril Kounta 👋
 
-**Développeur backend C# / .NET**
+I'm interested in software development, with a focus on backend development and web technologies.
 
-Je cherche un stage ou un poste junior en développement backend .NET à Montréal. Je développe en C# et je m’intéresse particulièrement aux API REST avec ASP.NET Core, à la gestion des données avec SQL et aux tests automatisés.
+## About Me
 
-## Projets
+- Based in Montréal, Canada
+- Open to internships and junior software development opportunities
 
-- **[Portfolio .NET](https://github.com/DjibrilKounta/Portfolio)** — Application web avec une vitrine publique et un espace d’administration pour gérer mes projets. [Voir le portfolio en ligne](https://portfolio-djibril-kounta-gpa8c2cwavedbecz.westus3-01.azurewebsites.net/Project)
-- **ADEBOG** — Application C# pour un club de boxe, conçue pour gérer ses membres, ses inscriptions et ses activités administratives.
-- **[DiskMaster](https://github.com/DjibrilKounta/DiskMaster)** — Outil C# de nettoyage de fichiers. J’y ai travaillé sur les opérations asynchrones et les tests d’annulation, de fichiers verrouillés et de limites de chemins. [Voir la démonstration](https://github.com/DjibrilKounta/DiskMaster#d%C3%A9monstration-vid%C3%A9o)
+## Technical Skills
 
-Je développe aussi des prototypes de jeux vidéo avec Unity sur mon temps libre.
+- **Languages:** C#, SQL, TypeScript
+- **Frameworks:** .NET, ASP.NET Core, React
+- **Tools:** Git, GitHub
 
-[LinkedIn](https://www.linkedin.com/in/djibrilkounta/)
+## Selected Projects
+
+- [Portfolio .NET](https://github.com/DjibrilKounta/Portfolio) — A web portfolio with an admin area for managing projects.
+- [DiskMaster](https://github.com/DjibrilKounta/DiskMaster) — A C# utility for analyzing and cleaning up temporary files, with tests for cancellation and file-access errors.
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/djibrilkounta/)
