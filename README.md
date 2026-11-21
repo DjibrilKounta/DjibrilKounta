@@ -1,3 +1,5 @@
+![Djibril Kounta](assets/banniere-djibril-kounta.png)
+
 # Djibril Kounta
 
 **Développeur backend C# / .NET**
