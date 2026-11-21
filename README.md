@@ -2,25 +2,14 @@
 
 **Développeur backend C# / .NET**
 
-Je développe des API REST avec ASP.NET Core. Je travaille avec PostgreSQL et Entity Framework Core pour la gestion des données, et avec xUnit pour les tests.
-
-[**Portfolio en ligne**](https://portfolio-djibril-kounta-gpa8c2cwavedbecz.westus3-01.azurewebsites.net/Project) · [**LinkedIn**](https://www.linkedin.com/in/djibril-kounta/)
+Je cherche un stage ou un poste junior en développement backend .NET à Montréal. Je développe en C# et je m’intéresse particulièrement aux API REST avec ASP.NET Core, à la gestion des données avec SQL et aux tests automatisés.
 
 ## Projets
 
-- **[Portfolio](https://github.com/DjibrilKounta/Portfolio)** — Application .NET avec une vitrine publique et un espace d’administration pour gérer mes projets.
-- **[DiskMaster](https://github.com/DjibrilKounta/DiskMaster)** — Outil de nettoyage en C# qui analyse les fichiers et estime l’espace récupérable avant de lancer le nettoyage. [Voir la démonstration](https://github.com/DjibrilKounta/DiskMaster#d%C3%A9monstration-vid%C3%A9o)
+- **[Portfolio .NET](https://github.com/DjibrilKounta/Portfolio)** — Application web avec une vitrine publique et un espace d’administration pour gérer mes projets. [Voir le portfolio en ligne](https://portfolio-djibril-kounta-gpa8c2cwavedbecz.westus3-01.azurewebsites.net/Project)
+- **ADEBOG** — Application C# pour un club de boxe, conçue pour gérer ses membres, ses inscriptions et ses activités administratives.
+- **[DiskMaster](https://github.com/DjibrilKounta/DiskMaster)** — Outil C# de nettoyage de fichiers. J’y ai travaillé sur les opérations asynchrones et les tests d’annulation, de fichiers verrouillés et de limites de chemins. [Voir la démonstration](https://github.com/DjibrilKounta/DiskMaster#d%C3%A9monstration-vid%C3%A9o)
 
-## Stack technique
+Je développe aussi des prototypes de jeux vidéo avec Unity sur mon temps libre.
 
-| Domaine | Outils |
-| --- | --- |
-| Backend et données | C#, .NET, ASP.NET Core Web API, Entity Framework Core, PostgreSQL |
-| Tests et outillage | xUnit, Git, GitHub Actions, Docker |
-| Frontend | React, TypeScript, Vite |
-
-Je m’intéresse aussi à l’intégration de l’IA générative côté serveur, notamment aux réponses structurées et à la recherche documentaire.
-
-## Développement de jeux vidéo
-
-En parallèle du backend, je développe des prototypes de jeux vidéo avec Unity et C#.
+[LinkedIn](https://www.linkedin.com/in/djibrilkounta/)
